@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "524226390468",
+    "project_id": "onlinegyogyszertar-e615a",
+    "storage_bucket": "onlinegyogyszertar-e615a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524226390468:android:1a9631e163dbcdd46bdc91",
+        "android_client_info": {
+          "package_name": "com.example.onlinegyogyszertar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524226390468-d8lqb29ogdbac8dgcinia9c1e63v2hqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlinegyogyszertar",
+            "certificate_hash": "aab2f0dd188532b56713c877f715a88de5158b47"
+          }
+        },
+        {
+          "client_id": "524226390468-lvh0drs9ti2st1ok8i191i7insl8vic2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6bKFYCavthxUZg87tOetNZ1x37K6Y3AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524226390468-lvh0drs9ti2st1ok8i191i7insl8vic2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

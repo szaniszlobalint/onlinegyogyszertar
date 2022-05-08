@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Online Gyógyszertár</string>
+    <string name="registration">Regisztráció</string>
+    <string name="e_mail_address">E-mail cím</string>
+    <string name="password">Jelszó</string>
+    <string name="cart">Kosár</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="buy">Vásárlás</string>
+    <string name="add">Hozzáadás</string>
+</resources>

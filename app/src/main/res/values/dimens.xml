@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edit_text_horizontal_margin">25dp</dimen>
+    <dimen name="registration_text_size">30sp</dimen>
+    <dimen name="product_price_text_size">20sp</dimen>
+    <dimen name="product_addbutton_text_size">10sp</dimen>
+    <dimen name="product_name_text_size">25sp</dimen>
+    <dimen name="login_text_size">25sp</dimen>
+    <dimen name="registration_margin_top">70dp</dimen>
+    <dimen name="email_edittext_margin_top">70dp</dimen>
+    <dimen name="registration_button_bottom_margin">70dp</dimen>
+    <integer name="popup_horizontal_margin">200</integer>
+    <integer name="popup_vertical_margin">500</integer>
+</resources>
